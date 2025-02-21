@@ -1,16 +1,35 @@
-# step_visualizer
+# Step Visualizer
 
-A new Flutter project.
+A Flutter project to visualize raw sensor data and predict step counts for the left and right foot. Step predictions are generated using a combination of signal processing (Butterworth low-pass filtering and SciPy peak detection) and machine learning models.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+- **Prediction Models:**
+  - **Sequential Models (Time-Series):**
+    - **UnifiedCountLSTM:** 2-layer LSTM with dropout and ReLU.
+    - **SimpleLSTM:** Single-layer LSTM for simplicity.
+    - **CNN-LSTM:** 1D CNN (with max pooling) + LSTM to capture local and temporal features.
+    - **UnifiedCountGRU:** GRU-based model with faster convergence.
+  - **Aggregated-Feature Models:**
+    - **Random Forest Regressor**
+    - **XGBoost Regressor**
 
-A few resources to get you started if this is your first Flutter project:
+- **Comparison:**  
+  Learning curves and MSE for the sequential models (displayed in a 2×2 grid) and error metrics (MAE) for the aggregated models were used to select the best approach.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Data Processing:**  
+  Raw data is preprocessed by standardizing timestamps, filtering the acceleration magnitude using a Butterworth low-pass filter, and extracting key features. Peak detection on the filtered signal yields surrogate step labels for training.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Clean and fetch Flutter dependencies:
+    ```bash
+    flutter clean
+    flutter pub get
+    ```
+2. Run the project on Chrome:
+    ```bash
+    flutter chrome -d run
+    ```
+
+For detailed code, see [stepcount.ipynb](https://github.com/vikrantsingh29/step_visualizer/blob/master/stepcount.ipynb) and for full documentation, refer to [StepCountEversion.pdf](https://github.com/vikrantsingh29/step_visualizer/blob/master/StepCountEversion.pdf).
