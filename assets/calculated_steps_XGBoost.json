@@ -1,0 +1,1640 @@
+[
+    {
+        "measurement_id": "0iE2x5VeObt4lVsIU3L4",
+        "start_time": "2024-06-14 12:00:31.668000",
+        "end_time": "2024-06-14 12:00:44.803000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "cwxMjVOD6QZMf4ksUvBs",
+        "start_time": "2024-06-14 12:57:21.041000",
+        "end_time": "2024-06-14 12:57:32.537000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "mOtM0aYKqkOkfwl4Y5KT",
+        "start_time": "2024-06-14 09:59:14.161000",
+        "end_time": "2024-06-14 09:59:41.546000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "iEenNiZinB9xT3zkAhZv",
+        "start_time": "2024-06-14 08:03:21.319000",
+        "end_time": "2024-06-14 08:03:49.122000",
+        "left_steps": 18,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "8b3wULuFS7P27dSMkDod",
+        "start_time": "2024-06-14 08:28:30.278000",
+        "end_time": "2024-06-14 08:28:59.237000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "5t2kQOL3p253joFBs6aM",
+        "start_time": "2024-06-14 11:02:16.132000",
+        "end_time": "2024-06-14 11:02:29.263000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "skTR4QUln1YkIyMlOciX",
+        "start_time": "2024-06-14 11:53:07.842000",
+        "end_time": "2024-06-14 11:53:20.432000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "qB133fZNhw3QdGE8dHUX",
+        "start_time": "2024-06-14 12:34:54.094000",
+        "end_time": "2024-06-14 12:35:09.299000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "rqJn87hcJVv3WbpoSlHN",
+        "start_time": "2024-06-14 10:32:48.750000",
+        "end_time": "2024-06-14 10:33:47.894000",
+        "left_steps": 10,
+        "right_steps": 13
+    },
+    {
+        "measurement_id": "QYbElNxG3mGgtVSo2LFF",
+        "start_time": "2024-06-14 13:01:32.427000",
+        "end_time": "2024-06-14 13:01:45.561000",
+        "left_steps": 14,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "B2HXwFOWFYOSE8w7CXp0",
+        "start_time": "2024-06-14 12:22:01.987000",
+        "end_time": "2024-06-14 12:22:17.847000",
+        "left_steps": 17,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "voYtr9vgtLGs0EsIqABv",
+        "start_time": "2024-06-14 07:23:48.653000",
+        "end_time": "2024-06-14 07:24:02.824000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "c7ss5UxkwdJm5p3k1I67",
+        "start_time": "2024-06-14 11:34:17.142000",
+        "end_time": "2024-06-14 11:34:33.021000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "rbk3m0CFK4mQVt2ot6T2",
+        "start_time": "2024-06-14 12:36:31.775000",
+        "end_time": "2024-06-14 12:36:46.561000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "xCKrVMuGR6iHMMeBTsQw",
+        "start_time": "2024-06-14 11:03:49.604000",
+        "end_time": "2024-06-14 11:04:06.024000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "hL8T9dJMfuTnWaGFgBbb",
+        "start_time": "2024-06-14 11:42:35.994000",
+        "end_time": "2024-06-14 11:42:46.932000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "88j5q5DqUwwVPp9WWgr8",
+        "start_time": "2024-06-14 09:19:25.250000",
+        "end_time": "2024-06-14 09:19:39.487000",
+        "left_steps": 24,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "xLfrpos5rUFsaqpDiCak",
+        "start_time": "2024-06-14 10:56:51.530000",
+        "end_time": "2024-06-14 10:57:05.216000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "CGip6nLtaO3eTdH5hxud",
+        "start_time": "2024-06-14 12:56:17.731000",
+        "end_time": "2024-06-14 12:56:29.775000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "E4Pah49Nj3DzqeUwQvq8",
+        "start_time": "2024-06-14 09:31:48.414000",
+        "end_time": "2024-06-14 09:32:02.646000",
+        "left_steps": 17,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "y2zOvGMlRxBAdQrMrcbm",
+        "start_time": "2024-06-14 09:34:00.292000",
+        "end_time": "2024-06-14 09:34:13.978000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "GVLRDH1P9DRKSGuPZiUH",
+        "start_time": "2024-06-14 09:59:54.789000",
+        "end_time": "2024-06-14 10:00:15.503000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "SKckun9NYbNa8mabfLVf",
+        "start_time": "2024-06-14 07:28:09.045000",
+        "end_time": "2024-06-14 07:28:23.823000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "rU3gw4LJE4469OfXuiw5",
+        "start_time": "2024-06-14 12:19:19.239000",
+        "end_time": "2024-06-14 12:19:34.571000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "HhITFxSqKkxEqHVjrTZn",
+        "start_time": "2024-06-14 12:02:30.191000",
+        "end_time": "2024-06-14 12:02:42.766000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "4woc10tIodbQb8cnVOlP",
+        "start_time": "2024-06-14 11:36:56.770000",
+        "end_time": "2024-06-14 11:37:08.264000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "X4vkHC3Brl05xf3pkVOq",
+        "start_time": "2024-06-14 11:39:02.417000",
+        "end_time": "2024-06-14 11:39:13.909000",
+        "left_steps": 13,
+        "right_steps": 13
+    },
+    {
+        "measurement_id": "4bembLxBRqfB3gEVqTgI",
+        "start_time": "2024-06-14 11:17:25.138000",
+        "end_time": "2024-06-14 11:17:37.178000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "ukPfdULjGWGeQC4DwbyM",
+        "start_time": "2024-06-14 10:07:57.246000",
+        "end_time": "2024-06-14 10:08:15.274000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "7i0q5t4grVRYsgmkB4mF",
+        "start_time": "2024-06-14 12:55:09.327000",
+        "end_time": "2024-06-14 12:55:21.918000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "1D7YXIfhop3uOfsgoHjV",
+        "start_time": "2024-06-14 11:53:38.345000",
+        "end_time": "2024-06-14 11:53:50.830000",
+        "left_steps": 17,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "M7pBbGw1yjGEZVslTKAq",
+        "start_time": "2024-06-14 11:41:36.618000",
+        "end_time": "2024-06-14 11:41:48.651000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "9DbxZm0VPHrIZCTFcekU",
+        "start_time": "2024-06-14 10:55:00.404000",
+        "end_time": "2024-06-14 10:55:16.832000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "H2upxhDDQ1uiAqZOQc61",
+        "start_time": "2024-06-14 07:27:26.050000",
+        "end_time": "2024-06-14 07:27:39.759000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "oAtFGM30udNaRDAwd28B",
+        "start_time": "2024-06-14 10:28:51.824000",
+        "end_time": "2024-06-14 10:29:04.963000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "4RvWQ0RVMCrvaB9C5ftU",
+        "start_time": "2024-06-14 09:40:53.527000",
+        "end_time": "2024-06-14 09:41:08.336000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "PlZBUyL5yplLuGXWLo0e",
+        "start_time": "2024-06-14 09:18:25.645000",
+        "end_time": "2024-06-14 09:18:37.686000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "bDbZg8cpaN1YTk1owjgb",
+        "start_time": "2024-06-14 12:20:50.833000",
+        "end_time": "2024-06-14 12:21:03.976000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "lA1TeWgVlCNA21JZnSUe",
+        "start_time": "2024-06-14 12:37:00.222000",
+        "end_time": "2024-06-14 12:37:13.361000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "U6PaM30BnkCpsNTpK6WY",
+        "start_time": "2024-06-14 12:24:43.294000",
+        "end_time": "2024-06-14 12:24:58.623000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "mLTHn61P1QZkm4SzLiTE",
+        "start_time": "2024-06-14 11:04:23.486000",
+        "end_time": "2024-06-14 11:04:37.705000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "aLsCCWYabmB6E38wTgrd",
+        "start_time": "2024-06-14 09:14:22.510000",
+        "end_time": "2024-06-14 09:14:36.066000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "Ghd865uZMFn3rSwkeXXa",
+        "start_time": "2024-06-14 10:34:42.050000",
+        "end_time": "2024-06-14 10:34:55.712000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "XOeQVwXumYb2BH4rqcCj",
+        "start_time": "2024-06-14 12:23:25.591000",
+        "end_time": "2024-06-14 12:23:40.323000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "iADLDmM5P02y58wXl8qS",
+        "start_time": "2024-06-14 11:02:46.788000",
+        "end_time": "2024-06-14 11:03:01.010000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "pH0zEY4wchiARb4S87Vk",
+        "start_time": "2024-06-14 10:36:34.118000",
+        "end_time": "2024-06-14 10:36:46.157000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "fn3qDato4tk08zSycECG",
+        "start_time": "2024-06-14 12:24:19.406000",
+        "end_time": "2024-06-14 12:24:31.951000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "A8FgtdIfgUQpCr8MJpa5",
+        "start_time": "2024-06-14 10:32:10.515000",
+        "end_time": "2024-06-14 10:32:28.025000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "qOFuUi37Xw1hextwdqbQ",
+        "start_time": "2024-06-14 12:20:21.371000",
+        "end_time": "2024-06-14 12:20:36.701000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "YpmqjrY2TKwGYkMciRWN",
+        "start_time": "2024-06-14 13:01:02.969000",
+        "end_time": "2024-06-14 13:01:16.102000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "3IxfgrM6wdEk0VjpcC3g",
+        "start_time": "2024-06-14 09:30:01.521000",
+        "end_time": "2024-06-14 09:30:17.846000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "jIy0qhnfve6kab0DCfWj",
+        "start_time": "2024-06-14 09:15:17.970000",
+        "end_time": "2024-06-14 09:15:32.087000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "kWfEBQJzAQFtXG4cdoCR",
+        "start_time": "2024-06-14 10:35:17.385000",
+        "end_time": "2024-06-14 10:35:29.922000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "ZvgatKIwynOMlV7juwLL",
+        "start_time": "2024-06-14 12:39:57.395000",
+        "end_time": "2024-06-14 12:40:12.156000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "2DkAfN0SOvEuGfHqLA5H",
+        "start_time": "2024-06-14 09:41:37.243000",
+        "end_time": "2024-06-14 09:41:51.999000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "oaVJ0gXkZjgoyH2HgD1l",
+        "start_time": "2024-06-14 11:54:30.177000",
+        "end_time": "2024-06-14 11:54:43.315000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "sDdYQy7PRaFL2fa2vpoD",
+        "start_time": "2024-06-14 09:42:21.876000",
+        "end_time": "2024-06-14 09:42:36.109000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "4p8vTR6bPtp9RKCtQAJk",
+        "start_time": "2024-06-14 11:01:46.144000",
+        "end_time": "2024-06-14 11:02:00.906000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "KI3jSnjBMr4OcxME7Xyu",
+        "start_time": "2024-06-14 11:16:24.313000",
+        "end_time": "2024-06-14 11:16:37.455000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "kbCNaZF5DNyxTzGLJ0un",
+        "start_time": "2024-06-14 08:57:34.924000",
+        "end_time": "2024-06-14 08:57:49.164000",
+        "left_steps": 17,
+        "right_steps": 0
+    },
+    {
+        "measurement_id": "dxLAF5zCgjgkuwyHNtHP",
+        "start_time": "2024-06-14 12:21:27.772000",
+        "end_time": "2024-06-14 12:21:48.579000",
+        "left_steps": 17,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "YnKnDmcDoTUiuqYmetkm",
+        "start_time": "2024-06-14 09:36:24.867000",
+        "end_time": "2024-06-14 09:36:38.006000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "JTK6RIC3JrwDykp2XERB",
+        "start_time": "2024-06-14 07:21:14.615000",
+        "end_time": "2024-06-14 07:21:26.604000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "QeFVR7RpzekG6mt4SoLs",
+        "start_time": "2024-06-14 12:18:26.220000",
+        "end_time": "2024-06-14 12:18:40.455000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "9wfBTtUsDRWyGBawxnxr",
+        "start_time": "2024-06-14 12:43:36.449000",
+        "end_time": "2024-06-14 12:43:53.962000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "AuwhtdBVdU0W1MEOf2td",
+        "start_time": "2024-06-14 11:23:52.035000",
+        "end_time": "2024-06-14 11:24:05.691000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "GZvNrD141xdO59uOgra6",
+        "start_time": "2024-06-14 10:04:24.630000",
+        "end_time": "2024-06-14 10:04:43.798000",
+        "left_steps": 19,
+        "right_steps": 19
+    },
+    {
+        "measurement_id": "FCw9xtCiuaEhQMjaaD7f",
+        "start_time": "2024-06-14 12:15:36.109000",
+        "end_time": "2024-06-14 12:16:07.877000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "UNhHz1Es3UebMX2amNYr",
+        "start_time": "2024-06-14 10:08:25.194000",
+        "end_time": "2024-06-14 10:08:47.089000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "hN9tdxixtXOzQinClBe3",
+        "start_time": "2024-06-14 13:02:28.771000",
+        "end_time": "2024-06-14 13:02:41.901000",
+        "left_steps": 17,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "xQpjE3fXHvhHMV4p8dDB",
+        "start_time": "2024-06-14 08:36:40.306000",
+        "end_time": "2024-06-14 08:36:54.959000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "gFsK9CqVrL25MhFnYSzd",
+        "start_time": "2024-06-14 07:22:18.897000",
+        "end_time": "2024-06-14 07:22:30.938000",
+        "left_steps": 13,
+        "right_steps": 13
+    },
+    {
+        "measurement_id": "PG8UWBPTiF151J1NJOUn",
+        "start_time": "2024-06-14 10:37:04.959000",
+        "end_time": "2024-06-14 10:37:16.999000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "bNnJhahk7WNQykceSjZW",
+        "start_time": "2024-06-14 10:01:42.462000",
+        "end_time": "2024-06-14 10:02:31.207000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "oXt4ce8kNFcYIhNOdnFh",
+        "start_time": "2024-06-14 10:03:48.107000",
+        "end_time": "2024-06-14 10:04:13.298000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "a7Lrg5xuhsTFRtyOYvYn",
+        "start_time": "2024-06-14 11:58:13.357000",
+        "end_time": "2024-06-14 11:58:27.043000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "bj1sfv5yhxfHDaJK7cTu",
+        "start_time": "2024-06-14 08:37:27.864000",
+        "end_time": "2024-06-14 08:37:41.003000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "EwX0ud7SU7tmBniXKdR0",
+        "start_time": "2024-06-14 12:00:57.338000",
+        "end_time": "2024-06-14 12:01:12.662000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "QMjDkjVJgfCAvxPCsVcu",
+        "start_time": "2024-06-14 11:36:25.365000",
+        "end_time": "2024-06-14 11:36:36.860000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "PVVzFnTOxlipLXoqXceK",
+        "start_time": "2024-06-14 09:44:24.491000",
+        "end_time": "2024-06-14 09:44:38.181000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "pGNGPyHMVPwJzXxuRzXC",
+        "start_time": "2024-06-14 11:37:31.661000",
+        "end_time": "2024-06-14 11:37:42.605000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "033nuFnKoOjj4NeIt9FS",
+        "start_time": "2024-06-14 12:57:50.585000",
+        "end_time": "2024-06-14 12:58:02.630000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "bLqjkZpNjsuD1qEDCSH5",
+        "start_time": "2024-06-14 11:16:49.728000",
+        "end_time": "2024-06-14 11:17:07.798000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "qO6rJrO28nEXFxhx1lnO",
+        "start_time": "2024-06-14 12:02:56.566000",
+        "end_time": "2024-06-14 12:03:12.461000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "qgS7L4pKhtAibyQ3vwG1",
+        "start_time": "2024-06-14 12:22:32.223000",
+        "end_time": "2024-06-14 12:22:45.354000",
+        "left_steps": 15,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "ng4Z49ha5hA2JfBoOqNM",
+        "start_time": "2024-06-14 12:59:28.132000",
+        "end_time": "2024-06-14 12:59:42.860000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "GyO75DcokqdXI13SvIIx",
+        "start_time": "2024-06-14 11:43:37.199000",
+        "end_time": "2024-06-14 11:43:57.592000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "wTHKa2gsTtvB6smLZTNF",
+        "start_time": "2024-06-14 12:05:01.096000",
+        "end_time": "2024-06-14 12:05:15.862000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "mrkSPYx0AYP09LMXwZfV",
+        "start_time": "2024-06-14 11:05:16.727000",
+        "end_time": "2024-06-14 11:05:33.685000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "w0Mk7i0zJ74GfaETi5t9",
+        "start_time": "2024-06-14 08:13:47.728000",
+        "end_time": "2024-06-14 08:14:02.514000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "9UKahgRyTNCkzjU4feSo",
+        "start_time": "2024-06-14 10:00:31.723000",
+        "end_time": "2024-06-14 10:00:47.053000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "fl29ydadmVNR5OrIJnDB",
+        "start_time": "2024-06-14 12:25:10.915000",
+        "end_time": "2024-06-14 12:25:24.044000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "fKgk4xFiPoeNrSdCH1uM",
+        "start_time": "2024-06-14 10:30:23.891000",
+        "end_time": "2024-06-14 10:30:37.031000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "lgB7YYgMhulN33ql8Uzb",
+        "start_time": "2024-06-14 10:02:46.154000",
+        "end_time": "2024-06-14 10:03:03.681000",
+        "left_steps": 20,
+        "right_steps": 20
+    },
+    {
+        "measurement_id": "WQve2PHVQpAGAVuM3spp",
+        "start_time": "2024-06-14 08:16:04.475000",
+        "end_time": "2024-06-14 08:16:18.160000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "gesa6MPZuCfI5Zw4AcOw",
+        "start_time": "2024-06-14 12:39:12.861000",
+        "end_time": "2024-06-14 12:39:36.362000",
+        "left_steps": 21,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "R7uO2MgFDCbUsPk7FpW5",
+        "start_time": "2024-06-14 12:42:18.364000",
+        "end_time": "2024-06-14 12:42:33.091000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "LlyuLEcSujyVMPsVFFgk",
+        "start_time": "2024-06-14 12:51:17.208000",
+        "end_time": "2024-06-14 12:51:32.939000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "Ln67IrkDB59na3bXhMOq",
+        "start_time": "2024-06-14 12:55:46.442000",
+        "end_time": "2024-06-14 12:56:02.324000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "dmo2cfliXnzLc6tEznVp",
+        "start_time": "2024-06-14 12:04:01.756000",
+        "end_time": "2024-06-14 12:04:15.987000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "bnIFrcCwLURcw1PSiuwK",
+        "start_time": "2024-06-14 11:41:06.702000",
+        "end_time": "2024-06-14 11:41:18.175000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "0373xrf1eaJoc8IcE6Gc",
+        "start_time": "2024-06-14 09:58:41.709000",
+        "end_time": "2024-06-14 09:59:01.296000",
+        "left_steps": 18,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "MVRhlFdtnKXoxKYKe6mh",
+        "start_time": "2024-06-14 11:22:11.373000",
+        "end_time": "2024-06-14 11:22:28.884000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "XF0T3xatWa03AnGBoOkZ",
+        "start_time": "2024-06-14 08:11:40.464000",
+        "end_time": "2024-06-14 08:11:56.245000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "VW4ETZE0nhBkRz03N1DK",
+        "start_time": "2024-06-14 11:15:54.263000",
+        "end_time": "2024-06-14 11:16:10.018000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "aSpanlLyvDdtsqCKP0RY",
+        "start_time": "2024-06-14 11:25:18.359000",
+        "end_time": "2024-06-14 11:25:32.586000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "QfFgYYtaHp8kxCNFZtxH",
+        "start_time": "2024-06-14 10:21:38.919000",
+        "end_time": "2024-06-14 10:22:00.704000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "NImIteqk8vrQ8uzzaU7M",
+        "start_time": "2024-06-14 10:34:05.104000",
+        "end_time": "2024-06-14 10:34:17.677000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "iFn0gvAUoaWtybqgvz84",
+        "start_time": "2024-06-14 10:59:54.026000",
+        "end_time": "2024-06-14 11:00:06.070000",
+        "left_steps": 19,
+        "right_steps": 19
+    },
+    {
+        "measurement_id": "qKeIwbRH5KrfLNDof213",
+        "start_time": "2024-06-14 10:05:36.965000",
+        "end_time": "2024-06-14 10:05:52.285000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "04SwmTFshylAIDUNCYTh",
+        "start_time": "2024-06-14 10:06:32.231000",
+        "end_time": "2024-06-14 10:06:49.748000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "6v6n1fyKwccnX2Lh1Hee",
+        "start_time": "2024-06-14 11:01:10.080000",
+        "end_time": "2024-06-14 11:01:24.830000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "bcYBkURASlLpXGT4WXNT",
+        "start_time": "2024-06-14 09:34:41.638000",
+        "end_time": "2024-06-14 09:34:55.871000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "I5d52J8w365oPV34AHqF",
+        "start_time": "2024-06-14 10:25:31.597000",
+        "end_time": "2024-06-14 10:25:42.546000",
+        "left_steps": 20,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "lVLLO87FXf6mi58R32H3",
+        "start_time": "2024-06-14 11:21:09.413000",
+        "end_time": "2024-06-14 11:21:23.644000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "vDADeqBXDOhRz2hj1weW",
+        "start_time": "2024-06-14 12:19:54.647000",
+        "end_time": "2024-06-14 12:20:11.075000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "OGJm4tQlgTISioLWHGfJ",
+        "start_time": "2024-06-14 08:08:27.603000",
+        "end_time": "2024-06-14 08:08:44.027000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "PXeOJ7eRTNvN7uFsSpJW",
+        "start_time": "2024-06-14 08:10:51.763000",
+        "end_time": "2024-06-14 08:11:06.544000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "gCT4o0Ygq6gbZJIyR3Sa",
+        "start_time": "2024-06-14 12:36:02.924000",
+        "end_time": "2024-06-14 12:36:17.026000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "gv4iHJwGYWDcZFwpxpxG",
+        "start_time": "2024-06-14 11:57:45.898000",
+        "end_time": "2024-06-14 11:57:58.492000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "2VCKgAxw7W55pgMsYhJU",
+        "start_time": "2024-06-14 12:40:53.089000",
+        "end_time": "2024-06-14 12:41:33.109000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "WXV9KsqM8nfXTpUrOuQy",
+        "start_time": "2024-06-14 09:57:29.639000",
+        "end_time": "2024-06-14 09:57:55.928000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "nLy1y7zW9IFehKaW6EdB",
+        "start_time": "2024-06-14 09:27:53.130000",
+        "end_time": "2024-06-14 09:28:33.105000",
+        "left_steps": 18,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "AWIfWpT5yn9VunOJYY3r",
+        "start_time": "2024-06-14 09:12:45.191000",
+        "end_time": "2024-06-14 09:12:59.423000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "4ikPFuW5GnKXxIAtDvCg",
+        "start_time": "2024-06-14 10:37:40.404000",
+        "end_time": "2024-06-14 10:37:52.970000",
+        "left_steps": 18,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "xxgzaILfUSPvK8ax2KUi",
+        "start_time": "2024-06-14 11:38:32.203000",
+        "end_time": "2024-06-14 11:38:44.794000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "SC200ch3hMTPfavTqjBx",
+        "start_time": "2024-06-14 12:23:02.611000",
+        "end_time": "2024-06-14 12:23:15.186000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "xCigDui41xw9rF3MZ2EF",
+        "start_time": "2024-06-14 11:20:38.597000",
+        "end_time": "2024-06-14 11:20:51.731000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "ldKrKt0GkBhlaXZAHigC",
+        "start_time": "2024-06-14 08:33:18.933000",
+        "end_time": "2024-06-14 08:33:31.524000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "iRsAqd0NbbBjg9JScc4g",
+        "start_time": "2024-06-14 07:24:35.234000",
+        "end_time": "2024-06-14 07:24:49.460000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "BEJYfP7ggNtln4yOI4hj",
+        "start_time": "2024-06-14 09:35:24.454000",
+        "end_time": "2024-06-14 09:35:40.742000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "bUSuGGbBCylZDKhyGupn",
+        "start_time": "2024-06-14 12:37:28.700000",
+        "end_time": "2024-06-14 12:37:44.991000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "T3c2fEBJa4M3G0OqKp3Y",
+        "start_time": "2024-06-14 11:56:21.267000",
+        "end_time": "2024-06-14 11:56:43.723000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "olduoXLxxh58T7QO1n9e",
+        "start_time": "2024-06-14 07:26:38.285000",
+        "end_time": "2024-06-14 07:26:50.888000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "E7DSgZaRTy9TqBN3YuYc",
+        "start_time": "2024-06-14 11:19:53.036000",
+        "end_time": "2024-06-14 11:20:07.814000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "hp2uM7Dt3BARA5u7KdNN",
+        "start_time": "2024-06-14 11:18:28.589000",
+        "end_time": "2024-06-14 11:18:40.629000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "Gcf4hfQhx9Ky3NPUL9Ez",
+        "start_time": "2024-06-14 12:56:49.319000",
+        "end_time": "2024-06-14 12:57:02.890000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "rdVcTf0BvDP3dfambVoU",
+        "start_time": "2024-06-14 12:40:25.223000",
+        "end_time": "2024-06-14 12:40:39.966000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "89BMFVjfTvbnHo0B3Nkc",
+        "start_time": "2024-06-14 10:57:30.777000",
+        "end_time": "2024-06-14 10:57:43.840000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "DQX0QntnDHjAkg7Jhpx3",
+        "start_time": "2024-06-14 09:45:17.660000",
+        "end_time": "2024-06-14 09:45:31.891000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "qPINKM6dATeOEdYlZkhU",
+        "start_time": "2024-06-14 08:09:59.802000",
+        "end_time": "2024-06-14 08:10:14.036000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "MMobe6EGE6bX36mN2sKR",
+        "start_time": "2024-06-14 11:23:15.448000",
+        "end_time": "2024-06-14 11:23:29.674000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "bK6UIKg2ySsmZZL7dRNf",
+        "start_time": "2024-06-14 12:42:45.423000",
+        "end_time": "2024-06-14 12:42:59.642000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "63SYgBzTPRziv46yM5n6",
+        "start_time": "2024-06-14 11:55:54.450000",
+        "end_time": "2024-06-14 11:56:07.043000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "JsYPPd9ZaeUvMHOaGLEX",
+        "start_time": "2024-06-14 12:31:51.281000",
+        "end_time": "2024-06-14 12:32:08.253000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "ghQSxud58NZPruhXhaG6",
+        "start_time": "2024-06-14 11:35:53.266000",
+        "end_time": "2024-06-14 11:36:08.051000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "gzjcjEr9PDsLznt3Wdf3",
+        "start_time": "2024-06-14 10:58:52.977000",
+        "end_time": "2024-06-14 10:59:08.856000",
+        "left_steps": 16,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "HlUfAWgNLrCCZjSmjxDB",
+        "start_time": "2024-06-14 12:16:40.840000",
+        "end_time": "2024-06-14 12:16:57.264000",
+        "left_steps": 16,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "5gJXvwoY7GASU8e6kD4a",
+        "start_time": "2024-06-14 13:02:01.897000",
+        "end_time": "2024-06-14 13:02:13.935000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "MPIOJZO3Lxffw8xq5IGa",
+        "start_time": "2024-06-14 10:53:51.953000",
+        "end_time": "2024-06-14 10:54:18.237000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "GlENaCnJODmA9FVyD4BA",
+        "start_time": "2024-06-14 12:35:31.892000",
+        "end_time": "2024-06-14 12:35:48.716000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "as6AwUPIi5b2WEnIn4OO",
+        "start_time": "2024-06-14 11:24:19.793000",
+        "end_time": "2024-06-14 11:24:35.113000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "Z1AILArBkINBepGZQbsw",
+        "start_time": "2024-06-14 09:46:47.170000",
+        "end_time": "2024-06-14 09:47:00.835000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "ED2eruUaumZboW6dKWvw",
+        "start_time": "2024-06-14 09:33:13.706000",
+        "end_time": "2024-06-14 09:33:28.489000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "p95ad7xJTEJF6cnlZzQL",
+        "start_time": "2024-06-14 07:25:54.747000",
+        "end_time": "2024-06-14 07:26:08.976000",
+        "left_steps": 13,
+        "right_steps": 13
+    },
+    {
+        "measurement_id": "qDXPhZzNAfn55vu4ZeRf",
+        "start_time": "2024-06-14 12:01:58.632000",
+        "end_time": "2024-06-14 12:02:14.487000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "9mqnUJPbhFEHxaVAtHME",
+        "start_time": "2024-06-14 12:37:59.244000",
+        "end_time": "2024-06-14 12:38:12.385000",
+        "left_steps": 22,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "uu16CZZMVJSvQYcijwIb",
+        "start_time": "2024-06-14 11:44:58.165000",
+        "end_time": "2024-06-14 11:45:11.295000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "kgggAw4OKiljRCMDYnXW",
+        "start_time": "2024-06-14 09:39:11.329000",
+        "end_time": "2024-06-14 09:39:24.988000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "UNflhCCjiaGdJAFvaCRo",
+        "start_time": "2024-06-14 11:42:06.537000",
+        "end_time": "2024-06-14 11:42:18.006000",
+        "left_steps": 13,
+        "right_steps": 13
+    },
+    {
+        "measurement_id": "zPGlZfAUDPTyJSgqK61T",
+        "start_time": "2024-06-14 12:03:33.465000",
+        "end_time": "2024-06-14 12:03:47.164000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "d1SJLQS5ncrA38E21pZF",
+        "start_time": "2024-06-14 10:03:19.596000",
+        "end_time": "2024-06-14 10:03:34.382000",
+        "left_steps": 19,
+        "right_steps": 19
+    },
+    {
+        "measurement_id": "vPfCyiLSxFq0Ns2gmJBD",
+        "start_time": "2024-06-14 08:35:31.709000",
+        "end_time": "2024-06-14 08:35:45.944000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "BeLcg45FbSaU3sd7EXI0",
+        "start_time": "2024-06-14 11:55:04.069000",
+        "end_time": "2024-06-14 11:55:16.115000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "7Ob67KBQ7iH2nF2oXtBP",
+        "start_time": "2024-06-14 10:30:57.656000",
+        "end_time": "2024-06-14 10:31:10.792000",
+        "left_steps": 18,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "2xEWici22n0TCq3xorWj",
+        "start_time": "2024-06-14 10:22:39.570000",
+        "end_time": "2024-06-14 10:22:53.253000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "2VSiky9fSdecegDBBxZn",
+        "start_time": "2024-06-14 12:58:22.091000",
+        "end_time": "2024-06-14 12:58:37.301000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "eXKLmsaGLoqvIpnNNpG8",
+        "start_time": "2024-06-14 11:21:39.318000",
+        "end_time": "2024-06-14 11:21:58.487000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "Ubl2WOZKOS7lQWbX68O6",
+        "start_time": "2024-06-14 10:58:18.291000",
+        "end_time": "2024-06-14 10:58:31.979000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "iEUoNZJEb9uQ5CljPkds",
+        "start_time": "2024-06-14 12:41:49.050000",
+        "end_time": "2024-06-14 12:42:05.474000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "zmCkqhYTl03DYdauXAtc",
+        "start_time": "2024-06-14 09:11:13.740000",
+        "end_time": "2024-06-14 09:11:36.740000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "TNZ9rqmh5B8zI9Grvxhq",
+        "start_time": "2024-06-14 12:54:03.185000",
+        "end_time": "2024-06-14 12:54:17.832000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "BsxSnoTsRktvZsac1xw4",
+        "start_time": "2024-06-14 10:55:43.731000",
+        "end_time": "2024-06-14 10:55:57.418000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "xa33F8FUA672obb0GxEX",
+        "start_time": "2024-06-14 09:17:04.299000",
+        "end_time": "2024-06-14 09:17:18.956000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "nvM01cgDE1HTp6eqhrEY",
+        "start_time": "2024-06-14 10:29:22.982000",
+        "end_time": "2024-06-14 10:29:37.627000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "SQ6mbzCpP3zYvJtJ0vrw",
+        "start_time": "2024-06-14 12:38:41.418000",
+        "end_time": "2024-06-14 12:38:55.650000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "0AxduuyH7QvfV841ANdD",
+        "start_time": "2024-06-14 08:14:32.793000",
+        "end_time": "2024-06-14 08:14:46.480000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "FLczov4zy5q52lOFy7f2",
+        "start_time": "2024-06-14 12:17:21.795000",
+        "end_time": "2024-06-14 12:17:36.577000",
+        "left_steps": 22,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "fiEruX3fHZ7eey6W8GME",
+        "start_time": "2024-06-14 09:39:58.219000",
+        "end_time": "2024-06-14 09:40:13.541000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "wpxUhPCIO1O14mJYsRlL",
+        "start_time": "2024-06-14 13:00:01.219000",
+        "end_time": "2024-06-14 13:00:16.542000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "GT0IvNdNKeqGa67Bb7JF",
+        "start_time": "2024-06-14 12:44:07.580000",
+        "end_time": "2024-06-14 12:44:22.389000",
+        "left_steps": 17,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "MRBF3DNuWq0zhSXajwPy",
+        "start_time": "2024-06-14 07:19:32.380000",
+        "end_time": "2024-06-14 07:19:44.425000",
+        "left_steps": 13,
+        "right_steps": 13
+    },
+    {
+        "measurement_id": "tOyMObETccIzTld32a5A",
+        "start_time": "2024-06-14 11:17:56.547000",
+        "end_time": "2024-06-14 11:18:09.138000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "645Pnjk719BNfmqnGqqr",
+        "start_time": "2024-06-14 12:23:51.552000",
+        "end_time": "2024-06-14 12:24:05.781000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "CS5Fp0MCbzGCrqckhZsR",
+        "start_time": "2024-06-14 10:35:52.414000",
+        "end_time": "2024-06-14 10:36:04.452000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "aQtYS6F55X7WyQ6nN4kG",
+        "start_time": "2024-06-14 11:18:56.500000",
+        "end_time": "2024-06-14 11:19:10.191000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "k95n1DITdl2YhZn0bCbF",
+        "start_time": "2024-06-14 09:17:48.162000",
+        "end_time": "2024-06-14 09:18:01.848000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "0bYDrU653eQr2GwcMXXw",
+        "start_time": "2024-06-14 09:31:03.983000",
+        "end_time": "2024-06-14 09:31:17.668000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "n8RnaRD2HKeF6EKGm84n",
+        "start_time": "2024-06-14 11:22:44.423000",
+        "end_time": "2024-06-14 11:23:00.297000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "P6GVRO0t0ugO3G3hVLLr",
+        "start_time": "2024-06-14 12:18:50.767000",
+        "end_time": "2024-06-14 12:19:06.644000",
+        "left_steps": 22,
+        "right_steps": 22
+    },
+    {
+        "measurement_id": "uMXObKRJCizH3vDlP3s9",
+        "start_time": "2024-06-14 11:58:53.908000",
+        "end_time": "2024-06-14 11:59:06.426000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "kyG7GikN4psPbhKA9w2w",
+        "start_time": "2024-06-14 10:04:55.320000",
+        "end_time": "2024-06-14 10:05:18.869000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "fFp5hn35TtkBWH0Nbqzn",
+        "start_time": "2024-06-14 11:38:01.062000",
+        "end_time": "2024-06-14 11:38:12.013000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "Q7XtkyJoyq8NeQZ6z3Wk",
+        "start_time": "2024-06-14 10:24:57.850000",
+        "end_time": "2024-06-14 10:25:12.483000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "Evh9Us2Ad679NutcvoQR",
+        "start_time": "2024-06-14 11:44:27.929000",
+        "end_time": "2024-06-14 11:44:40.497000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "34tQly329CjGgyE7vUal",
+        "start_time": "2024-06-14 09:16:23.802000",
+        "end_time": "2024-06-14 09:16:37.489000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "iYCj1Y3LMt5gNPJnEb4a",
+        "start_time": "2024-06-14 08:15:17.766000",
+        "end_time": "2024-06-14 08:15:32.546000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "WNfCgjB7lXJ7imTayxWw",
+        "start_time": "2024-06-14 12:58:54.957000",
+        "end_time": "2024-06-14 12:59:10.801000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "HygrEbMw3UZkOkt8sfVZ",
+        "start_time": "2024-06-14 11:05:52.132000",
+        "end_time": "2024-06-14 11:06:06.357000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "kzUXWVQxrWBaPA2LcFSb",
+        "start_time": "2024-06-14 11:40:38.828000",
+        "end_time": "2024-06-14 11:40:50.860000",
+        "left_steps": 16,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "JxPX2mvEXDxexHmm4yzX",
+        "start_time": "2024-06-14 11:43:04.823000",
+        "end_time": "2024-06-14 11:43:17.951000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "4diavXwzETso5buth3ON",
+        "start_time": "2024-06-14 12:17:54.160000",
+        "end_time": "2024-06-14 12:18:11.681000",
+        "left_steps": 21,
+        "right_steps": 19
+    },
+    {
+        "measurement_id": "iloGIUsxyJJCYITwkvIl",
+        "start_time": "2024-06-14 12:04:30.492000",
+        "end_time": "2024-06-14 12:04:46.357000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "SnL6OaytvzUlxQayF8MT",
+        "start_time": "2024-06-14 09:43:23.648000",
+        "end_time": "2024-06-14 09:43:38.970000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "F4T3qH1lVVhaT23Viz2i",
+        "start_time": "2024-06-14 12:54:37.268000",
+        "end_time": "2024-06-14 12:54:49.858000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "oEclrnwumygktEk0EPKO",
+        "start_time": "2024-06-14 10:59:22.651000",
+        "end_time": "2024-06-14 10:59:35.792000",
+        "left_steps": 20,
+        "right_steps": 20
+    },
+    {
+        "measurement_id": "vh92aaJeQLxDazem2hN5",
+        "start_time": "2024-06-14 10:09:33.057000",
+        "end_time": "2024-06-14 10:10:19.058000",
+        "left_steps": 18,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "XTtBR3ZFfn7oabEDf7PU",
+        "start_time": "2024-06-14 10:23:30.353000",
+        "end_time": "2024-06-14 10:23:46.227000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "o9coK7JZnihiRlffojgZ",
+        "start_time": "2024-06-14 10:38:13.651000",
+        "end_time": "2024-06-14 10:38:28.395000",
+        "left_steps": 15,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "3KSq4m3qpqV9Z4zBDSjw",
+        "start_time": "2024-06-14 11:24:49.743000",
+        "end_time": "2024-06-14 11:25:04.514000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "SiVKIPVoDgwvC9s703h0",
+        "start_time": "2024-06-14 11:40:06.989000",
+        "end_time": "2024-06-14 11:40:19.018000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "vVjtgNSUgxaaUHODqa8j",
+        "start_time": "2024-06-14 10:06:03.072000",
+        "end_time": "2024-06-14 10:06:17.301000",
+        "left_steps": 15,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "frjNvBJSh6Rwa7mT5BIP",
+        "start_time": "2024-06-14 12:33:55.543000",
+        "end_time": "2024-06-14 12:34:17.997000",
+        "left_steps": 24,
+        "right_steps": 24
+    },
+    {
+        "measurement_id": "fuMXMxSYlY3WVI19If7X",
+        "start_time": "2024-06-14 13:00:33.476000",
+        "end_time": "2024-06-14 13:00:45.516000",
+        "left_steps": 21,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "Ck7P4iTUJ9FAWUozF7Sg",
+        "start_time": "2024-06-14 11:15:20.648000",
+        "end_time": "2024-06-14 11:15:37.619000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "hiG83ssX2DUOVgSmNQWr",
+        "start_time": "2024-06-14 09:32:27.562000",
+        "end_time": "2024-06-14 09:32:41.801000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "v18fuwRCZNoPTqfFie5G",
+        "start_time": "2024-06-14 13:02:57.658000",
+        "end_time": "2024-06-14 13:03:10.196000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "cFlL8vD8tI2Q16Kyw7hq",
+        "start_time": "2024-06-14 08:06:58.042000",
+        "end_time": "2024-06-14 08:07:16.657000",
+        "left_steps": 17,
+        "right_steps": 17
+    },
+    {
+        "measurement_id": "zdPfWhcGMpNtty31lRly",
+        "start_time": "2024-06-14 11:03:17.650000",
+        "end_time": "2024-06-14 11:03:32.974000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "CiebYhzPBsVTxlm2R5YC",
+        "start_time": "2024-06-14 07:22:59.098000",
+        "end_time": "2024-06-14 07:23:12.237000",
+        "left_steps": 15,
+        "right_steps": 15
+    },
+    {
+        "measurement_id": "9HHPkc1vOhOFbWKkEd8a",
+        "start_time": "2024-06-14 12:25:34.152000",
+        "end_time": "2024-06-14 12:25:53.413000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "1z0rNIsIZDIrD740ib7D",
+        "start_time": "2024-06-14 11:35:18.049000",
+        "end_time": "2024-06-14 11:35:31.188000",
+        "left_steps": 14,
+        "right_steps": 14
+    },
+    {
+        "measurement_id": "1bNvcoM97anYHfq1kXqs",
+        "start_time": "2024-06-14 11:59:40.977000",
+        "end_time": "2024-06-14 11:59:57.954000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "vipJDEVyprhM1ZRVDeva",
+        "start_time": "2024-06-14 12:43:10.903000",
+        "end_time": "2024-06-14 12:43:25.133000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "MxynnfDdZD0l7eLFoTeU",
+        "start_time": "2024-06-14 11:39:31.816000",
+        "end_time": "2024-06-14 11:39:43.310000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "IDM3pIRA6Y0mQg7EW3Dp",
+        "start_time": "2024-06-14 10:07:02.087000",
+        "end_time": "2024-06-14 10:07:17.956000",
+        "left_steps": 15,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "fvvvFT3GKhO0m29w5B3M",
+        "start_time": "2024-06-14 11:00:35.322000",
+        "end_time": "2024-06-14 11:00:50.637000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "c5FBjTsVWOnupTeTpZAB",
+        "start_time": "2024-06-14 10:08:57.104000",
+        "end_time": "2024-06-14 10:09:19.550000",
+        "left_steps": 18,
+        "right_steps": 18
+    },
+    {
+        "measurement_id": "267ViyIlrQCyTPxPh0Bb",
+        "start_time": "2024-06-14 11:19:26.616000",
+        "end_time": "2024-06-14 11:19:39.206000",
+        "left_steps": 21,
+        "right_steps": 21
+    },
+    {
+        "measurement_id": "fWWMIviEKyrVSa49qRzP",
+        "start_time": "2024-06-14 09:45:57.924000",
+        "end_time": "2024-06-14 09:46:11.058000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "kpdEFcvd8PEFTFKzwJjB",
+        "start_time": "2024-06-14 12:01:26.894000",
+        "end_time": "2024-06-14 12:01:43.845000",
+        "left_steps": 16,
+        "right_steps": 16
+    },
+    {
+        "measurement_id": "KBeHv31CTtwysWU1FfXf",
+        "start_time": "2024-06-14 10:24:17.497000",
+        "end_time": "2024-06-14 10:24:32.823000",
+        "left_steps": 23,
+        "right_steps": 23
+    },
+    {
+        "measurement_id": "D2CSTd0hwRIZ1lsWBL2G",
+        "start_time": "2024-06-14 10:56:16.745000",
+        "end_time": "2024-06-14 10:56:32.074000",
+        "left_steps": 19,
+        "right_steps": 19
+    },
+    {
+        "measurement_id": "vfCtNyl8QWR5f3QKLysc",
+        "start_time": "2024-06-14 10:07:30.253000",
+        "end_time": "2024-06-14 10:07:46.110000",
+        "left_steps": 16,
+        "right_steps": 16
+    }
+]

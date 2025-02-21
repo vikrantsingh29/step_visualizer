@@ -1,0 +1,33 @@
+name: step_visualizer
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  fl_chart: ^0.63.0
+  json_serializable: ^6.7.1
+  path_provider: ^2.1.2
+  archive: ^3.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/calculated_steps_algo.json
+    - assets/calculated_steps_CNN.json
+    - assets/calculated_steps_GRU.json
+    - assets/calculated_steps_LSTM2Layers.json
+    - assets/calculated_steps_LSTMBasic.json
+    - assets/calculated_steps_RandomForest.json
+    - assets/calculated_steps_XGBoost.json
+    - assets/RawSensorData/
