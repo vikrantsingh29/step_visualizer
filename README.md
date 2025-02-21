@@ -29,7 +29,7 @@ A Flutter project to visualize raw sensor data and predict step counts for the l
     ```
 2. Run the project on Chrome:
     ```bash
-    flutter chrome -d run
+    flutter run -d chrome
     ```
 
 For detailed code, see [stepcount.ipynb](https://github.com/vikrantsingh29/step_visualizer/blob/master/stepcount.ipynb) and for full documentation, refer to [StepCountEversion.pdf](https://github.com/vikrantsingh29/step_visualizer/blob/master/StepCountEversion.pdf).
