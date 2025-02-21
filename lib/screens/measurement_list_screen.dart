@@ -102,7 +102,7 @@ class _MeasurementListScreenState extends State<MeasurementListScreen> {
             tooltip: 'Download All Calculated Files',
             onPressed: _downloadAllCalculatedFiles,
           ),
-          // (Optional) You can keep or remove the button for viewing calculated steps options.
+          // 
           IconButton(
             icon: Icon(Icons.analytics),
             tooltip: 'View Calculated Steps Options',
